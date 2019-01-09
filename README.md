@@ -8,4 +8,6 @@ just like in DOTA (Warcraft), Characters can be Hero or something else; in this 
 both Wizard and Warrior have their own unique capabilities, but as a Hero, they also have some similiarity.
 they have HP, Mana, level, attack capability, damage, etc. they also can use enhancers (in this case, HP booster
 and mana booster). 
+
+and
 just run the program and see the result :-)
