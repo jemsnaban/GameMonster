@@ -9,5 +9,4 @@ both Wizard and Warrior have their own unique capabilities, but as a Hero, they 
 they have HP, Mana, level, attack capability, damage, etc. they also can use enhancers (in this case, HP booster
 and mana booster). 
 
-and
-just run the program to see the result :-)
+and just run the program to see the result :-)
